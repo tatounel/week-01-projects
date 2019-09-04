@@ -1,1 +1,8 @@
-
+.jumbotron {
+    background: url('../img/milkbg.jpg') no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+    height: 70%;
+   }
+  
+  
